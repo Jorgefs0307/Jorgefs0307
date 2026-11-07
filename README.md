@@ -73,7 +73,7 @@ Backend estructurado para la administración de listas de tareas pendientes (To-
 
 - **Características:** Endpoints RESTful (`GET`, `POST`, `PUT`, `DELETE`), persistencia de datos y gestión de dependencias con Maven.
 
-🔗 **Repositorio:** [todo-api-rest](https://github.com/Jorgefs0307/todo-api-rest)
+🔗 **Repositorio:** [todo-api-rest](https://github.com/Jorgefs0307/springboot-API)
 
 ---
 
