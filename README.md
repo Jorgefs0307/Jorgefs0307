@@ -91,7 +91,7 @@ Backend estructurado para la administración de listas de tareas pendientes (To-
 🌱 Learning    TypeScript, React Native, Angular y bases de datos (MySQL, Oracle)
 💻 Improving   PHP, JavaScript, C++, C#, HTML/CSS y control de versiones con Git
 🎯 Looking for Oportunidades profesionales para seguir creciendo como desarrollador
-
+```
 ---
 
 ## 📊 Estadísticas de GitHub
