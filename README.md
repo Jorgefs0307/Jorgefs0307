@@ -19,8 +19,8 @@ Interés en el sector informático, especialmente enfocado en **bases de datos y
 
 Soy **estudiante de DAM** y desarrollador junior con experiencia práctica en el sector tecnológico. Mis principales áreas de interés son la creación de aplicaciones robustas, el desarrollo backend/frontend y la gestión de bases de datos.
 
-* 💼 **Experiencia reciente:** Prácticas como técnico de desarrollo en **Ceifor Estudios**, trabajando en el desarrollo y testeo de un CMD utilizando PHP, HTML, CSS, JavaScript y control de versiones con GitHub.
-* 🚀 **Enfoque:** Creación de aplicaciones funcionales del mundo real, desde software en Java hasta soluciones web y multiplataforma.
+- 💼 **Experiencia reciente:** Prácticas como técnico de desarrollo en **Ceifor Estudios**, trabajando en el desarrollo y testeo de un CMD utilizando PHP, HTML, CSS, JavaScript y control de versiones con GitHub.
+- 🚀 **Enfoque:** Creación de aplicaciones funcionales del mundo real, desde software en Java hasta soluciones web y multiplataforma.
 
 ---
 
@@ -57,35 +57,37 @@ Soy **estudiante de DAM** y desarrollador junior con experiencia práctica en el
 
 Videojuego de consola avanzado con generación procedural de mapas, niebla de guerra, sistema de inventario complejo, combates estratégicos mediante minijuegos de *Piedra, Papel o Tijera* y narrativa oculta a través de diarios.
 
-* **Características:** Gestión de estados, múltiples dificultades, armas con efectos críticos y objetos consumibles.
+- **Características:** Gestión de estados, múltiples dificultades, armas con efectos críticos y objetos consumibles.
 
 🔗 **Repositorio:** [la-mazmorra-oscura](https://github.com/Jorgefs0307/la-mazmorra-oscura)
 
 ---
 
-### 🚗 Sistema de Gestión de Vehículos
-**Aplicación de control y administración orientada a objetos**
+### 📝 To-Do List - API REST
+**API RESTful para la gestión de tareas desarrollada con Spring Boot**
 
-`Java` · `POO` · `Gestión de Datos`
+`Java` · `Spring Boot` · `Maven`
 
-Software diseñado para la gestión eficiente de flotas y vehículos, aplicando principios sólidos de programación orientada a objetos, arquitectura modular y validación de datos.
+Backend estructurado para la administración de listas de tareas pendientes (To-Do), implementando operaciones CRUD completas y una arquitectura limpia por capas.
 
-🔗 **Repositorio:** [sistema-gestion-vehiculos](https://github.com/Jorgefs0307)
+- **Características:** Endpoints RESTful (`GET`, `POST`, `PUT`, `DELETE`), persistencia de datos y gestión de dependencias con Maven.
+
+🔗 **Repositorio:** [todo-api-rest](https://github.com/Jorgefs0307/todo-api-rest)
 
 ---
 
 ## 🎓 Educación y Certificaciones
 
-* **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** — CEU San Pablo · 2025 – 2027
-* **Bachillerato de Ciencias Sociales** — Instituto Santísima Trinidad · 2023 – 2025
-* **Certificación online de Productividad Personal** — Google · 2024
+- **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** — CEU San Pablo · 2025 – 2027
+- **Bachillerato de Ciencias Sociales** — Instituto Santísima Trinidad · 2023 – 2025
+- **Certificación online de Productividad Personal** — Google · 2024
 
 ---
 
 ## 🎯 Actualmente
 
 ```text
-🔭 Building    Proyectos en Java y desarrollo multiplataforma
-🌱 Learning    Arquitectura de software y bases de datos avanzadas
-💻 Improving   PHP, JavaScript, Git y metodologías de desarrollo
+🔭 Building    Proyectos en Java, Python, Kotlin y desarrollo multiplataforma
+🌱 Learning    TypeScript, React Native, Angular y bases de datos (MySQL, Oracle)
+💻 Improving   PHP, JavaScript, C++, C#, HTML/CSS y control de versiones con Git
 🎯 Looking for Oportunidades profesionales para seguir creciendo como desarrollador
