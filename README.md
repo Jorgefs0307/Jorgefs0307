@@ -10,6 +10,7 @@ Interés en el sector informático, especialmente enfocado en **bases de datos y
 
 [![GitHub](https://img.shields.io/badge/GITHUB-JORGEFS0307-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jorgefs0307)
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgefs2007@gmail.com)
+![Visitas](https://komarev.com/ghpvc/?username=Jorgefs0307&color=blueviolet&style=for-the-badge&label=VISITAS)
 
 </div>
 
@@ -91,7 +92,3 @@ Backend estructurado para la administración de listas de tareas pendientes (To-
 🌱 Learning    TypeScript, React Native, Angular y bases de datos (MySQL, Oracle)
 💻 Improving   PHP, JavaScript, C++, C#, HTML/CSS y control de versiones con Git
 🎯 Looking for Oportunidades profesionales para seguir creciendo como desarrollador
-```
----
-
-![Visitas](https://komarev.com/ghpvc/?username=Jorgefs0307&color=blueviolet&style=for-the-badge&label=VISITAS)
