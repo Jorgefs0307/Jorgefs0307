@@ -94,10 +94,8 @@ Backend estructurado para la administración de listas de tareas pendientes (To-
 ```
 ---
 
-## 📊 Estadísticas de GitHub
-
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jorgefs0307&theme=dracula&hide_border=false&short_numbers=false)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgefs0307&layout=compact&theme=dracula)
 
 </div>
