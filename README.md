@@ -94,8 +94,4 @@ Backend estructurado para la administración de listas de tareas pendientes (To-
 ```
 ---
 
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgefs0307&layout=compact&theme=dracula)
-
-</div>
+![Visitas](https://komarev.com/ghpvc/?username=Jorgefs0307&color=blueviolet&style=for-the-badge&label=VISITAS)
