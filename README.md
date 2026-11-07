@@ -91,3 +91,13 @@ Backend estructurado para la administración de listas de tareas pendientes (To-
 🌱 Learning    TypeScript, React Native, Angular y bases de datos (MySQL, Oracle)
 💻 Improving   PHP, JavaScript, C++, C#, HTML/CSS y control de versiones con Git
 🎯 Looking for Oportunidades profesionales para seguir creciendo como desarrollador
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jorgefs0307&theme=dracula&hide_border=false&short_numbers=false)](https://git.io/streak-stats)
+
+</div>
