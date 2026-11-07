@@ -59,7 +59,7 @@ Videojuego de consola avanzado con generación procedural de mapas, niebla de gu
 
 * **Características:** Gestión de estados, múltiples dificultades, armas con efectos críticos y objetos consumibles.
 
-🔗 **Repositorio:** [la-mazmorra-oscura](https://github.com/Jorgefs0307)
+🔗 **Repositorio:** [la-mazmorra-oscura](https://github.com/Jorgefs0307/la-mazmorra-oscura)
 
 ---
 
