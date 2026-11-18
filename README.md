@@ -77,6 +77,19 @@ Backend estructurado para la administración de listas de tareas pendientes (To-
 
 ---
 
+### 🖼️ Galería Android
+**Aplicación nativa para dispositivos móviles Android de gestión de imágenes**
+
+`Java/Kotlin` · `Android Studio` · `XML`
+
+Aplicación móvil diseñada para la visualización y organización de contenido multimedia de forma fluida e intuitiva en entornos Android.
+
+- **Características:** Interfaz adaptativa, navegación entre vistas y gestión eficiente de recursos gráficos locales.
+
+🔗 **Repositorio:** [Galeria_Android](https://github.com/Jorgefs0307/Galeria_Android)
+
+---
+
 ## 🎓 Educación y Certificaciones
 
 - **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** — CEU San Pablo · 2025 – 2027
