@@ -51,6 +51,21 @@ Soy **estudiante de DAM** y desarrollador junior con experiencia práctica en el
 
 ## 🚀 Proyectos destacados
 
+---
+
+### 🔫 BudForce
+**Videojuego arcade 2D tipo *bullet-heaven* en desarrollo con Godot 4**
+
+`Godot 4` · `GDScript` · `Git`
+
+Proyecto personal centrado en la supervivencia frente a oleadas de enemigos, con separación entre movimiento y disparo direccional y una arquitectura organizada por escenas y señales.
+
+- **Estado y características:** Movimiento en 8 direcciones, disparo manual con cadencia (`cooldown`), generación automática de enemigos mediante `Timer` y detección de colisiones y daño.
+
+🔗 **Repositorio:** [BudForce](https://github.com/Jorgefs0307/BudForce)
+
+---
+
 ### 🗡️ La Mazmorra Oscura (Juego de Rol en Consola)
 **Juego de aventura y exploración por turnos desarrollado en Java**
 
